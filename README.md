@@ -1,6 +1,6 @@
-# Projeto GEC
+# Projeto GEV
 
-Olá, seja bem-vindo ao Projeto GEC (Gerenciamento de Estoque e Vendas)!
+Olá, seja bem-vindo ao Projeto GEV (Gerenciamento de Estoque e Vendas)!
 
 Esse projeto visa construir um sistema simples, fácil de utilizar e, o mais importante, eficiente!
 
