@@ -1,3 +1,7 @@
-# bearochastore.com
+# Projeto GEC
 
-Esse projeto visa construir um sistema de estoque e gestão de vendas. Utilizando Next.js, React e Python como principais tecnologias
+Olá, seja bem-vindo ao Projeto GEC (Gerenciamento de Estoque e Vendas)!
+
+Esse projeto visa construir um sistema simples, fácil de utilizar e, o mais importante, eficiente!
+
+Utilizarei Next.js e React para a construção do frontend e Python para o backend.
